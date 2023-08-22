@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["INTERFACE_ID"],"fn":["accept_mint","accept_transfer","balance","root","wallet_code"]};

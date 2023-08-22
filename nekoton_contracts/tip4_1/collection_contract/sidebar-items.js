@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["INTERFACE_ID"],"fn":["nft_address","nft_code","nft_code_hash","total_supply"],"struct":["NftCodeHashOutputs"]};

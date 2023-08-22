@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["INTERFACE_ID"],"fn":["change_manager","change_owner","get_info","transfer"],"struct":["ChangeManagerInputs","ChangeOwnerInputs","GetInfoOutputs","NftCallbackPayload","TransferInputs"]};

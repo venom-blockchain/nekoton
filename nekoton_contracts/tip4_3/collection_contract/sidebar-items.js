@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["INTERFACE_ID"],"fn":["index_basis_code","index_basis_code_hash","index_code","index_code_hash","resolve_index_basis"]};

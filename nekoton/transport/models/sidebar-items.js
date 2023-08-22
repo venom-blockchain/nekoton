@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PollContractState","RawContractState"],"struct":["ExistingContract","RawTransaction"]};

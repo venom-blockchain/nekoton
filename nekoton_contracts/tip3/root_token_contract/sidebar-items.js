@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["INTERFACE_ID"],"fn":["accept_burn","decimals","name","symbol","total_supply","wallet_code"]};

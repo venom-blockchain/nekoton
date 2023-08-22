@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["INTERFACE_ID"],"fn":["accept_burn","deploy_wallet","mint","root_owner","wallet_of"],"struct":["AcceptBurnInputs"]};
